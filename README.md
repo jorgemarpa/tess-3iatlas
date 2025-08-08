@@ -1,4 +1,4 @@
-# TESS 3I/ATLAS 
+# TESS - 3I/ATLAS 
 
 This repository contains the data reduction and analysis used in [Martinez-Palomera et al. (2025)](https://arxiv.org/abs/2508.02499). Here, you'll find dedicated notebooks to do:
 * Data retrieval, background modeling, position correction, image stacking, and photometry

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "tess-3iatlas"
+version = "0.1.0"
+description = ""
+authors = ["Jorge Martinez-Palomera <jorgemarpa@ug.uchile.cl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9, <3.13"
+tess-asteroids = "^1.2.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

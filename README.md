@@ -30,6 +30,11 @@ The noisier photometric points near BTJD 4056.4 are due to a bright saturated st
     <img alt="TESS Light Curve" src="data/2026/figures/tess_3iatlas_spoc_s1751a_lc.png" width="100%">
 </p>
 
+Below is a clean version of the light curve after removing cadences with high background model noise due to the saturated star. We also highlighted times when the comet passed over background stars and the frames with the edge effect.
+<p align="center">
+    <img alt="TESS Light Curve" src="data/2026/figures/tess_3iatlas_spoc_s1751a_lc_clean.png" width="100%">
+</p>
+
 
 If you have questions regarding data processing, access, content, and suggestions on how to improve them in future versions, contact us through the [TSSC helpdesk](https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html), GitHub issues in this repository, or via email.
 

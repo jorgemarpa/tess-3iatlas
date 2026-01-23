@@ -1,0 +1,6 @@
+data/.DS_Store
+notebooks/__pycache__
+notebooks/.ipynb_checkpoints
+.mypy_cache
+data/2026/known_asteroids_within_1deg_contingency_mode.txt
+.DS_Store

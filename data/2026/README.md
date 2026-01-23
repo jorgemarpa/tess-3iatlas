@@ -37,4 +37,4 @@ No.    Name          Ver    Type      Cards   Dimensions
   4  EXTRAS            1 BinTableHDU     55   322R x 13C   
   ```
 
-See our [Jupyter notebook tutorials]() for details on how to read these files and what to expect.
+See our [Jupyter notebook tutorials](https://github.com/jorgemarpa/tess-3iatlas) for details on how to read these files and what to expect.

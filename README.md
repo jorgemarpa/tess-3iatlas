@@ -7,7 +7,7 @@ This repository contains the data reduction and analysis used in [Martinez-Palom
 This contains the data reduction performed on the data taken during TESS repointing to 3I/ATLAS during sector 1751 between January 16th and 22nd, 2026. 
 For further details on TESS sector 1751 observations visit the [TSSC website](https://heasarc.gsfc.nasa.gov/docs/tess/tess-special-news-bulletin-dec-18th.html).
 
-**<font color="salmon">As January 23, 2026, only 322 full frame images have been processed by the SPOC pipeline, which correspond to observations between 2026-01-15T06:04:18 and 2026-01-15T23:54:18 UTC.</font>**
+> **<font color="salmon">As January 23, 2026, only 322 full frame images have been processed by the SPOC pipeline, which correspond to observations between 2026-01-15T06:04:18 and 2026-01-15T23:54:18 UTC.</font>**
 
 The data created here is available in a [Zenodo repository]() and it will be updated with new data as soon this is available at the MAST archive. 
 We will update these repositories with new data products, figures, and details as more data becomes available at the MAST archive.

@@ -7,14 +7,13 @@ This repository contains the data reduction and analysis used in [Martinez-Palom
 This contains the data reduction performed on the data taken during TESS repointing to 3I/ATLAS during sector 1751 between January 16th and 22nd, 2026. 
 For further details on TESS sector 1751 observations visit the [TSSC website](https://heasarc.gsfc.nasa.gov/docs/tess/tess-special-news-bulletin-dec-18th.html).
 
-**As January22, 2026, only 322 full frame images have been processed by the SPOC pipeline, which correspond to observations between 2026-01-15T06:04:18 and 2026-01-15T23:54:18 UTC.**
+**As January 22, 2026, only 322 full frame images have been processed by the SPOC pipeline, which correspond to observations between 2026-01-15T06:04:18 and 2026-01-15T23:54:18 UTC.**
 The data created here is available in a [Zenodo repository]() and it will be updated with new data as soon this is available at the MAST archive. 
 We will update these repositories with new data products, figures, and details as more data becomes available at the MAST archive.
 
 Here, you'll find dedicated notebooks to do:
 * Create object centered moving TPF from TESS sector 1751 using [tess-asteroids](https://altuson.github.io/tess-asteroids/), which models the scattered background light and star field and extract light curves using aperture and PSF photometry. 
-  * [This notebook](notebooks/2026/make_mTPF_from_ffi.ipynb) uses the FFIs.
-  * [This notebook](notebooks/2026/make_mTPF_from_static_tpfs.ipynb) uses the extended TPFs placed along the comet path.
+  * [This notebook](notebooks/2026/make_mTPF_from_ffi.ipynb) uses the full frame images.
 * Examples of how to open the data-products published in this [Zenodo repository](to_Zenodo) using astronomy-related python packages, [here](notebooks/2026/open_hlsp_data.ipynb).
 
 This is an animation of the TESS observations of 3I/ATLAS. The images are background (scattered light and stars) subtracted.

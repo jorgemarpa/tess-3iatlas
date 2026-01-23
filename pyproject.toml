@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.9, <3.13"
-tess-asteroids = "^1.2.6"
+tess-asteroids = "^1.5.0"
 
 
 [build-system]
